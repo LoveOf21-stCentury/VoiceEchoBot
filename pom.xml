@@ -38,12 +38,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>edu.cmu.sphinx</groupId>
-			<artifactId>sphinx4-data</artifactId>
-			<version>5prealpha-SNAPSHOT</version>
-		</dependency>
-
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
