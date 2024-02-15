@@ -1,6 +1,5 @@
 package com.sylman.voice_echo_bot;
 
-
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
